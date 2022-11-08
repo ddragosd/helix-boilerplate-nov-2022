@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Testing Helix Boilerplate ...
+As of `Nov 8th 2022`
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-boilerplace-nov-2022--ddragosd.hlx.page/
+- Live: https://main--helix-boilerplace-nov-2022--ddragosd.hlx.live/
 
 ## Installation
 
